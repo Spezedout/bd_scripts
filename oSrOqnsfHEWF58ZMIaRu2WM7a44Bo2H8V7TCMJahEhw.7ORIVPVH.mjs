@@ -5602,66 +5602,7 @@ var Fi = {
                             id: N,
                             name: "Header",
                             ref: c,
-                            children: [d(n.div, {
-                                className: "framer-pu8lnj",
-                                "data-framer-name": "Framer Badge",
-                                name: "Framer Badge",
-                                children: [e(R, {
-                                    breakpoint: s,
-                                    overrides: {
-                                        sH43zL1oy: {
-                                            transformTemplate: ra
-                                        }
-                                    },
-                                    children: e(Si, {
-                                        __framer__loop: gm,
-                                        __framer__loopEffectEnabled: !0,
-                                        __framer__loopRepeatDelay: 0,
-                                        __framer__loopRepeatType: "loop",
-                                        __framer__loopTransition: Fi,
-                                        __perspectiveFX: !1,
-                                        __targetOpacity: 1,
-                                        className: "framer-hd4p95-container",
-                                        children: e(R, {
-                                            breakpoint: s,
-                                            overrides: {
-                                                iRL2gYRtC: {
-                                                    variant: "PPsrtOdCR"
-                                                },
-                                                sH43zL1oy: {
-                                                    variant: "MQBFpgPnD"
-                                                }
-                                            },
-                                            children: e(Kt, {
-                                                height: "100%",
-                                                id: "Ree_P3wYI",
-                                                layoutId: "Ree_P3wYI",
-                                                style: {
-                                                    height: "100%",
-                                                    width: "100%"
-                                                },
-                                                variant: "DeJj7tlJW",
-                                                width: "100%"
-                                            })
-                                        })
-                                    })
-                                }), e(xe, {
-                                    href: "https://www.framer.com/site-of-the-month/benjamin-trigalou",
-                                    children: e(n.a, {
-                                        className: "framer-1bz53hd framer-lux5qc",
-                                        children: e(er, {
-                                            className: "framer-1um3dja",
-                                            "data-framer-name": "framer_logo",
-                                            fill: "black",
-                                            intrinsicHeight: 30,
-                                            intrinsicWidth: 20,
-                                            name: "framer_logo",
-                                            svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.91 30.46"><path d="M9.91 30.46 0 20.54V9.91h9.91l10 10.55h-10v10zm10-20.55h-10L0 0h19.91v9.91z"/></svg>',
-                                            withExternalLayout: !0
-                                        })
-                                    })
-                                })]
-                            }), e(n.div, {
+                             e(n.div, {
                                 className: "framer-v638ot",
                                 children: e(M, {
                                     background: {
