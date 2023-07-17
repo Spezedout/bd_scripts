@@ -1,14 +1,14 @@
 import {
     b as Mt
-} from "./chunk-LQB3L6ZF.mjs";
+} from "https://cdn.jsdelivr.net/gh/Spezedout/bd_scripts@main/chunk-LQB3L6ZF.mjs";
 import {
     a as zt
-} from "./chunk-RVWTSSFU.mjs";
+} from "https://cdn.jsdelivr.net/gh/Spezedout/bd_scripts@main/chunk-RVWTSSFU.mjs";
 import {
     a as Sr,
     b as e,
     c as d
-} from "./chunk-353XP7WQ.mjs";
+} from "https://cdn.jsdelivr.net/gh/Spezedout/bd_scripts@main/chunk-353XP7WQ.mjs";
 import {
     A as Ke,
     B as Ft,
@@ -64,11 +64,11 @@ import {
     x as St,
     y as Ue,
     z as Lt
-} from "./chunk-OQBS4ZV5.mjs";
+} from "https://cdn.jsdelivr.net/gh/Spezedout/bd_scripts@main/chunk-OQBS4ZV5.mjs";
 import {
     b as _,
     c as v
-} from "./chunk-ELYU6EKT.mjs";
+} from "https://cdn.jsdelivr.net/gh/Spezedout/bd_scripts@main/chunk-ELYU6EKT.mjs";
 var Nt = '"Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"',
     hr = {
         position: "relative",
