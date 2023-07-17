@@ -4338,14 +4338,7 @@ var js = $(function({
             })
         })
     }),
-    Vs = ['.framer-cO4ax [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-cO4ax .framer-1di8r3z { display: block; }", ".framer-cO4ax .framer-182hqci { height: 92px; overflow: hidden; position: relative; width: 92px; will-change: transform; }", ".framer-cO4ax .framer-1l4uunx { bottom: 2px; flex: none; left: 2px; overflow: hidden; position: absolute; right: 2px; top: 2px; will-change: transform; }", ".framer-cO4ax .framer-1wfz9ep { aspect-ratio: 0.6666666666666666 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 30px); left: 50%; position: absolute; top: 50%; width: 20px; }", ".framer-cO4ax .framer-1fjmeaz { bottom: 6px; flex: none; left: 6px; overflow: visible; position: absolute; right: 6px; top: 6px; }", ".framer-cO4ax .framer-1wyhiug { flex: none; height: 80px; left: calc(49.36708860759496% - 79px / 2); position: absolute; top: calc(50.00000000000002% - 80px / 2); width: 79px; }", ".framer-cO4ax.framer-v-jv4nu2 .framer-182hqci { aspect-ratio: 1 / 1; height: var(--framer-aspect-ratio-supported, 50px); width: 50px; }", ".framer-cO4ax.framer-v-jv4nu2 .framer-1fjmeaz { aspect-ratio: 1 / 1; bottom: unset; height: var(--framer-aspect-ratio-supported, 38px); }", ".framer-cO4ax.framer-v-jv4nu2 .framer-1wyhiug { height: 42px; left: calc(50.00000000000002% - 41px / 2); top: calc(50.00000000000002% - 42px / 2); width: 41px; }", ".framer-cO4ax.framer-v-d1k3z9 .framer-182hqci { aspect-ratio: 1 / 1; height: var(--framer-aspect-ratio-supported, 122px); width: 122px; }", ".framer-cO4ax.framer-v-d1k3z9 .framer-1fjmeaz { bottom: 0px; left: 0px; right: 0px; top: 0px; }", ".framer-cO4ax.framer-v-d1k3z9 .framer-1wyhiug { height: 108px; left: calc(50.00000000000002% - 107px / 2); top: calc(50.00000000000002% - 108px / 2); width: 107px; }"],
-    Tr = K(js, Vs, "framer-cO4ax"),
-    Kt = Tr;
-Tr.displayName = "Framer - Site of the month - badge";
-Tr.defaultProps = {
-    height: 92,
-    width: 92
-};
+  
 Y(Tr, {
     variant: {
         options: ["PPsrtOdCR", "MQBFpgPnD", "DeJj7tlJW"],
